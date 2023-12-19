@@ -5,6 +5,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-nayeem-c-e-523188207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed nayeem c e" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nayeemce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nayeemce" height="30" width="40" /></a>
+<a href='https://nayeem2208.github.io/Portfolio/'><img src='https://github.com/nayeem2208/nayeem2208/assets/124780866/6046c35b-67f6-4f8f-9fd8-a94700c12479' align="center" height="30" width="40"></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
